@@ -1,0 +1,45 @@
+body{overflow:hidden;}
+    
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.child{
+    width: 366px;
+    height: 420px;
+    background-color: #FAF4EF;
+    border-bottom-left-radius: 45px;
+}
+
+.child img{    
+    width: 299px;
+    height: 299px;
+    margin-top: 80px;
+    margin-left: 30px;
+
+}
+
+
+.child h2{
+    font-family: 'DM Serif Display';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 100%;
+    color: #4b4b4b;  
+    margin-left: 32px;
+}
+
+.child p{
+    font-family: 'DM Serif Display';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 100%;
+    color:#737373 ;
+    margin-left: 32px;
+}
+
